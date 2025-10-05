@@ -1,0 +1,15 @@
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\net7.0\ConsoleTicTacToe.exe
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\net7.0\ConsoleTicTacToe.deps.json
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\net7.0\ConsoleTicTacToe.runtimeconfig.json
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\net7.0\ConsoleTicTacToe.dll
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\net7.0\ConsoleTicTacToe.pdb
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.csproj.AssemblyReference.cache
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.AssemblyInfo.cs
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.dll
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\refint\ConsoleTicTacToe.dll
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.pdb
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ConsoleTicTacToe.genruntimeconfig.cache
+C:\Users\Eddie\RiderProjects\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\net7.0\ref\ConsoleTicTacToe.dll
